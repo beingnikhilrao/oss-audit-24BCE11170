@@ -1,7 +1,7 @@
 # Open Source Software Audit Project
 
-- Student Name: Abhishek
-- Registration Number: 24BCE10272
+- Student Name: Nikhil
+- Registration Number: 24BCE11170
 - Course: Open Source Software 
 - Chosen Software: Python (PSF License)
 
