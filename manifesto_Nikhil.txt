@@ -1,0 +1,10 @@
+--------------------------------------
+Open Source Manifesto
+By Abhishek (24BCE10272) on 30 March 2026
+--------------------------------------
+
+I trust in the strength of open-source software.
+Working with tools like Python, I truly understand what creativity means.
+I aim to create a data analytics dashboard and make it freely available to everyone.
+Knowledge ought to be open, shared, and accessible to all.
+This is my way of contributing to the open-source community
